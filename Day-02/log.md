@@ -44,8 +44,7 @@ NOT		NOT A	>> A is true, NOT a is false and vice versa
 [love Calculator](https://github.com/jdee77/100DaysOfPython/blob/main/Day-02/codes/love%20calculator.py)
 [Treasure Island](https://github.com/jdee77/100DaysOfPython/blob/main/Day-02/codes/treasureisland.py)
 [BMI calculator](https://github.com/jdee77/100DaysOfPython/blob/main/Day-02/codes/bmi.py![rockpaper](https://user-images.githubusercontent.com/79501910/119823278-3c7be080-bf12-11eb-990b-42b386ff4028.png)
-![rockpaper](https://user-images.githubusercontent.com/79501910/119823334-4f8eb080-bf12-11eb-9cb8-ac7a5203b2a8.png)
-)
+
 ### RANDOMISATION AND PYTHON LIST
 Create unpredictability in computer program e.g. tetris game, snake game, ludo
 	
@@ -77,3 +76,6 @@ Indexing
 #### FINAL PROJECT
 [rock paper scissor game](https://github.com/jdee77/100DaysOfPython/tree/main/Day-02/rockPaperScissor)
 
+
+![rockpaper](https://user-images.githubusercontent.com/79501910/119823334-4f8eb080-bf12-11eb-9cb8-ac7a5203b2a8.png)
+)
