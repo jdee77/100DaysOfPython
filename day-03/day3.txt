@@ -1,0 +1,22 @@
+# DAY-03 FRI MAY 2021, FRI DAY 
+# PYTHON LOOPS
+
+### FOR LOOPS
+	fruits = ["apple", "orange", "guava"]
+	for x in fruits:
+    		print(x)
+
+o/p >>>
+apple
+orange
+guava
+
+#### [Average height of student]()
+#### [Heighest height in the class]()
+
+	for i in range(1, 100):
+    		print(i)
+
+range (start, end, step_size)
+ # end is exclusive 
+ # step_size is the increment 
